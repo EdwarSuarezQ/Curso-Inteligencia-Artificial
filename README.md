@@ -1,9 +1,8 @@
+![Banner Curso IA](banner-ai.png)
+
 # Curso de Inteligencia Artificial
 
-## Autor
+Este repositorio centraliza todos los trabajos y talleres prácticos desarrollados durante el curso de Inteligencia Artificial.
 
-### Edwar Suarez
-### Universidad Del Pacifico
-
-En este repositoria se agregaran todos los trabajos y talles del curso que se trabajen en clases.
-
+**Autor:** Edwar Suarez  
+**Universidad del Pacífico**
