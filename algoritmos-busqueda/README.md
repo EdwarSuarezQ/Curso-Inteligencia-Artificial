@@ -9,7 +9,7 @@ Ambos algoritmos permiten recorrer un grafo desde un nodo inicial y explorar tod
 
 ---
 
-## Descripción
+## Descripcion
 
 El programa utiliza un **grafo representado mediante un diccionario de listas de adyacencia**.
 
@@ -20,16 +20,21 @@ Durante la ejecucion se muestra paso a paso el proceso de recorrido, incluyendo:
 - Contenido de la **cola** (usada por BFS)
 - Contenido de la **pila** (usada por DFS)
 
-Esto permite observar como funcionan internamente ambos algoritmos.
+Ademas, el programa incluye:
+
+- Representacion visual del grafo
+- Medicion del consumo de memoria de cada algoritmo
+
+Esto permite observar como funcionan internamente ambos algoritmos y comparar su comportamiento.
 
 ---
 
 ## Tecnologias utilizadas
 
-- **Python**
-- Algoritmos de grafos
-- BFS (Breadth First Search)
-- DFS (Depth First Search)
+- Python  
+- NetworkX (representacion del grafo)  
+- Matplotlib (visualizacion)  
+- Tracemalloc (medicion de memoria)
 
 ---
 
@@ -38,7 +43,8 @@ Esto permite observar como funcionan internamente ambos algoritmos.
 ```
 algoritmos-busqueda/
 │
-├── bfs-dfs.py
+├── bfs_dfs.py
+├── BFS_DFS.ipynb
 └── README.md
 ```
 
@@ -61,31 +67,38 @@ F -> C, E
 
 ## Ejecucion del Programa
 
-Para ejecutar el programa:
+El programa fue desarrollado en **Google Colab**.
 
-```bash
-python bfs-dfs.py
-```
+Para ejecutarlo:
 
-Luego el programa solicitara ingresar el **nodo inicial** desde el cual se realizara el recorrido.
+1. Abrir el archivo `.ipynb`
+2. Ejecutar las celdas del notebook
+3. Ingresar el nodo inicial cuando el programa lo solicite
 
 Ejemplo:
 
 ```
-Ingrese el nodo inicial: A
+Ingrese el nodo inicial (A-F): A
 ```
 
 ---
 
 ## Resultados
 
-Al finalizar la ejecucion, el programa muestra:
+Durante la ejecucion el programa muestra:
 
-- El recorrido completo usando **BFS**
-- El recorrido completo usando **DFS**
-- La cantidad de nodos visitados en cada algoritmo
+- Representacion visual del grafo
+- Recorrido paso a paso usando BFS
+- Recorrido paso a paso usando DFS
+- Memoria utilizada por cada algoritmo
+- Numero de nodos visitados
 
 ---
 
+## Autor
 
-Proyecto realizado como parte de un taller de **algoritmos de busqueda en grafos** para la asignatura de **Inteligencia Artificial**.
+### Edwar Suarez
+### Universidad Del Pacifico
+### Inteligencia Artificial
+
+Repositorio creado como parte de un ejercicio academico sobre **algoritmos de busqueda en grafos**.
