@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R5eEstpbCGX-EqkEthoFVsG3I107P1BT?usp=sharing)
+
 # Algoritmos de Busqueda en Grafos: BFS y DFS
 
 Este proyecto implementa en Python dos algoritmos fundamentales de busqueda en grafos:
@@ -102,7 +104,3 @@ Durante la ejecucion el programa muestra:
 ### Inteligencia Artificial
 
 Repositorio creado como parte de un ejercicio academico sobre **algoritmos de busqueda en grafos**.
-
-
----
-[Colab](https://colab.research.google.com/drive/1R5eEstpbCGX-EqkEthoFVsG3I107P1BT?usp=sharing)
