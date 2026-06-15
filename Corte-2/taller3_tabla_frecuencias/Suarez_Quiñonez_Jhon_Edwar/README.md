@@ -1,7 +1,5 @@
 # Taller No. 3 – Análisis Estadístico Descriptivo y Visualización de Datos
 
-## Información General
-
 **Universidad del Pacífico**<br>
 **Programa:** Ingeniería de Sistemas<br>
 **Asignatura:** Inteligencia Artificial<br>
