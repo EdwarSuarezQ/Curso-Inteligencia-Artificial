@@ -11,7 +11,7 @@
 - Ángel Santiago Estupiñán Gómez
 - Stefany Potosí
 - Cristian David Garcia Valderrama
-- Jhon Edwdar Suárez Quiñonez
+- Jhon Edwar Suárez Quiñonez
 - Steven Cabal
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CkHBfeFXoJQpchnyxMgIgznmyYMT6XA_?usp=sharing)
