@@ -1,4 +1,4 @@
-# Taller No. 3 – Análisis Estadístico Descriptivo y Visualización de Datos
+# Taller No. 3 – Análisis Estadístico Descriptivo y Visualización de Datos.
 
 **Universidad del Pacífico**<br>
 **Programa:** Ingeniería de Sistemas<br>
